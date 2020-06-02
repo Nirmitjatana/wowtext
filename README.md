@@ -1,12 +1,12 @@
 # wowtext😮😎
 
-Slaytext is an npm package to reduce text-shadow efforts
+wowtext is an npm package to reduce text-shadow efforts
 ## Installation
 
 
 
 ```
-npm i slaytext
+npm i wowtext
 ```
 
 ## Options
@@ -18,17 +18,17 @@ npm i slaytext
 ```
 
 ## How to use
-Give Query the className '.slaytext'
+Give Query the className '.wowtext'
 
 Paste the given code in your JS file and add options of your choice
 
 You are good to go👍👍
 ```
-import {slaytext} from 'slaytext';
+import {wowtext} from 'wowtext';
 ```
 
 ```
-slaytext({
+wowtext({
      type: 'alpha',
      color: 'green'
  });
