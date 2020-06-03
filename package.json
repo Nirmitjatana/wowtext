@@ -1,6 +1,6 @@
 {
   "name": "wowtext",
-  "version": "1.0.1",
+  "version": "1.4.0",
   "description": "package to minimize your text-shadow efforts",
   "main": "index.js",
   "scripts": {
